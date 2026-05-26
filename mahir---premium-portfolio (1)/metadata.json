@@ -1,0 +1,8 @@
+{
+  "name": "Mahir - Premium Portfolio",
+  "description": "Ultra-premium cinematic digital gallery and portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
